@@ -43,7 +43,7 @@ I'm CairnsWM (William Cairns)
 - Continuous Learning https://www.linkedin.com/pulse/continuous-learning-william-cairns
 And a few more
 
-## I have (a lot of experience)
+## I have (a lot of) experience
 See my Linkedin profile (https://www.linkedin.com/in/cairnswm) for details
 
 ## I use Github
