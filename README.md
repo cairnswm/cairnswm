@@ -42,7 +42,7 @@
 - Continuous Learning https://www.linkedin.com/pulse/continuous-learning-william-cairns
 And a few more
 
-## My Github Activity
+## I use Github
 
 <a href="https://github.com/cairnswm">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cairnswm&count_private=true&show_icons=true&theme=radical" />
