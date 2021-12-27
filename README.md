@@ -35,9 +35,9 @@ I'm CairnsWM (William Cairns)
 
 ## I have done some writing
 - Really Simple Svelte Routing: https://dev.to/cairnswm/really-simple-svelte-routing-5fko
-- Mainframe to Cloud, a short History https://www.linkedin.com/pulse/mainto-cloud-short-history-william-cairns
+- Mainframe to Cloud, a short history https://www.linkedin.com/pulse/mainto-cloud-short-history-william-cairns
 - Custom Bootstrap using CSS https://www.linkedin.com/pulse/custom-bootstrap-using-sass-william-cairns
-- I dont expect you to keep us https://www.linkedin.com/pulse/i-dont-expect-you-keep-up-william-cairns
+- I don't expect you to keep up https://www.linkedin.com/pulse/i-dont-expect-you-keep-up-william-cairns
 - Read.me (or be ignored) https://www.linkedin.com/pulse/readmemd-ignored-william-cairns
 - Personal Projects (Passion, Bugs and DevOps) https://www.linkedin.com/pulse/personal-projects-passion-bugs-devops-william-cairns
 - Continuous Learning https://www.linkedin.com/pulse/continuous-learning-william-cairns
