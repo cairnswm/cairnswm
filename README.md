@@ -14,8 +14,8 @@ I'm CairnsWM (William Cairns)
 ## I have studied
 - B.Comm Information Systems (Pretoria)
 - Busy with
-  - MSc Computer Science with Software Engineering (Glyndwr)
-  - MPS Web and Mobile Development (FHSU)
+  - MSc Computer Science with Software Engineering (Glyndwr) (https://online.glyndwr.ac.uk/msc-computer-science-with-software-engineering/)
+  - MPS Web and Mobile Development (FHSU) (https://www.fhsu.edu/academic/gradschl/MPS/Web-Development/)
 
 ## I currently use
 - Javascript
