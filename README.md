@@ -1,5 +1,5 @@
 # Hi 
-I'm CairnsWM (William Cairns)
+I'm CairnsWM (William Cairns), I live in South Africa.
 
 ## I am
 - A Passionate Software Developer
@@ -21,7 +21,7 @@ I'm CairnsWM (William Cairns)
 - Javascript
 - React
 - Svelte
-- AWS - many services
+- AWS - multiple Services 
 - PHP
 - mySQL
 
