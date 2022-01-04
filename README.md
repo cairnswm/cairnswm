@@ -6,13 +6,13 @@ I'm CairnsWM (William Cairns), I live in South Africa.
 - A Long Distance Cyclist
 - A Fantasy fan - D&D and Fantasy Fiction
 
-## I consider my key skills
+## I consider my key skills to be
 - Software Engineering
 - Team Leadership
 - Junior Developer Mentorship
 - Modern Software Development processes
 - Application Architecture Best Practises
-- Team Player
+- Compassion
 
 ## I am Certified as
 - Microsoft Certified Developer (C#, Javascript, Azure)
