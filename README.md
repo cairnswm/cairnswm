@@ -8,7 +8,7 @@ I'm CairnsWM (William Cairns), I live in South Africa.
 
 ## I consider my key skills to be
 - Software Engineering
-- Team Leadership
+- Technical Team Leadership
 - Junior Developer Mentorship
 - Modern Software Development processes
 - Application Architecture Best Practises
