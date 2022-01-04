@@ -6,6 +6,14 @@ I'm CairnsWM (William Cairns), I live in South Africa.
 - A Long Distance Cyclist
 - A Fantasy fan - D&D and Fantasy Fiction
 
+## I consider my key skills
+- Software Engineering
+- Team Leadership
+- Junior Developer Mentorship
+- Modern Software Development processes
+- Application Architecture Best Practises
+- Team Player
+
 ## I am Certified as
 - Microsoft Certified Developer (C#, Javascript, Azure)
 - AWS Cloud Practitioner
@@ -41,7 +49,7 @@ I'm CairnsWM (William Cairns), I live in South Africa.
 - Read.me (or be ignored) https://www.linkedin.com/pulse/readmemd-ignored-william-cairns
 - Personal Projects (Passion, Bugs and DevOps) https://www.linkedin.com/pulse/personal-projects-passion-bugs-devops-william-cairns
 - Continuous Learning https://www.linkedin.com/pulse/continuous-learning-william-cairns
-And a few more
+- And a few more
 
 ## I have (a lot of) experience
 See my Linkedin profile (https://www.linkedin.com/in/cairnswm) for details
