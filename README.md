@@ -34,11 +34,11 @@ I'm CairnsWM (William Cairns), I live in South Africa. I would like to move into
 - mySQL
 
 ## I used to use
-- C#
+- .Net, C#
+- SQL Server
 - Delphi
 - Oracle
 - C++
-- SQL server
 - and lots more
 
 ## I have done some writing
