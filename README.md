@@ -10,9 +10,9 @@ I'm CairnsWM (William Cairns), I live in South Africa. I would like to move into
 - Software Engineering
 - Technical Team Leadership
 - Team Mentorship
+- Javascript/React
 - Modern Software Development processes
 - Application Architecture Best Practises
-- Compassion
 
 ## I am Certified as
 - Microsoft Certified Developer (C#, Javascript, Azure)
