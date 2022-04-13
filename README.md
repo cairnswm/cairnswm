@@ -1,5 +1,5 @@
 # Hi 
-I'm CairnsWM (William Cairns), I live in South Africa. I would like to move into a true Remote position based in the USA. I have both American and South African citizenship.
+I'm CairnsWM (William Cairns), I live in South Africa. I will be moving to a Remote position based in the USA. I have both American and South African citizenship.
 
 ## I am
 - A Passionate Software Developer
