@@ -1,6 +1,8 @@
 # Hi 
 I'm CairnsWM (William Cairns), I live in South Africa. I will be moving to a Remote position based in the USA. I have both American and South African citizenship.
 
+I am currently working as a Staff Engineer for Imagine Learning.
+
 ## I am
 - A Passionate Software Developer
 - A Long Distance Cyclist
@@ -42,6 +44,7 @@ I'm CairnsWM (William Cairns), I live in South Africa. I will be moving to a Rem
 - and lots more
 
 ## I have done some writing
+- DevOps Engineers don't do DevOps: https://www.linkedin.com/pulse/devops-engineers-do-william-cairns/
 - Really Simple Svelte Routing: https://dev.to/cairnswm/really-simple-svelte-routing-5fko
 - Mainframe to Cloud, a short history https://www.linkedin.com/pulse/mainto-cloud-short-history-william-cairns
 - Custom Bootstrap using CSS https://www.linkedin.com/pulse/custom-bootstrap-using-sass-william-cairns
