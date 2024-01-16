@@ -9,29 +9,25 @@ I am currently working as a Staff Engineer for Imagine Learning.
 - A Fantasy fan - D&D and Fantasy Fiction
 
 ## I consider my key skills to be
+- Javascript/React
 - Software Engineering
 - Technical Team Leadership
 - Team Mentorship
-- Javascript/React
 - Modern Software Development processes
 - Application Architecture Best Practises
 
 ## I am Certified as
 - Microsoft Certified Developer (C#, Javascript, Azure)
-- AWS Cloud Practitioner
-- AWS Certified Developer Associate
+- AWS Cloud Practitioner (Expired)
+- AWS Certified Developer Associate (Expired)
 
 ## I have studied
 - B.Comm Information Systems (Pretoria)
-- Busy with
-  - MSc Computer Science with Software Engineering (Glyndwr) (https://online.glyndwr.ac.uk/msc-computer-science-with-software-engineering/)
-  - MPS Web and Mobile Development (FHSU) (https://www.fhsu.edu/academic/gradschl/MPS/Web-Development/)
+- MSc Computer Science with Software Engineering (Glyndwr) (https://online.glyndwr.ac.uk/msc-computer-science-with-software-engineering/)
 
 ## I currently use
 - Javascript
 - React
-- Svelte
-- AWS - multiple Services 
 - PHP
 - mySQL
 
@@ -41,9 +37,12 @@ I am currently working as a Staff Engineer for Imagine Learning.
 - Delphi
 - Oracle
 - C++
+- AWS
 - and lots more
 
 ## I have done some writing
+- How non developers can keep developers engaged and productive https://www.linkedin.com/pulse/how-non-developers-can-keep-developers-engaged-william-cairns-z27ie
+- https://www.linkedin.com/pulse/when-use-components-vs-writing-code-william-cairns https://www.linkedin.com/pulse/when-use-components-vs-writing-code-william-cairns
 - DevOps Engineers don't do DevOps: https://www.linkedin.com/pulse/devops-engineers-do-william-cairns/
 - Really Simple Svelte Routing: https://dev.to/cairnswm/really-simple-svelte-routing-5fko
 - Mainframe to Cloud, a short history https://www.linkedin.com/pulse/mainto-cloud-short-history-william-cairns
