@@ -42,7 +42,7 @@ I am currently working as a Staff Engineer for Imagine Learning.
 
 ## I have done some writing
 - How non developers can keep developers engaged and productive https://www.linkedin.com/pulse/how-non-developers-can-keep-developers-engaged-william-cairns-z27ie
-- https://www.linkedin.com/pulse/when-use-components-vs-writing-code-william-cairns https://www.linkedin.com/pulse/when-use-components-vs-writing-code-william-cairns
+- When to Use Components vs. Writing Code https://www.linkedin.com/pulse/when-use-components-vs-writing-code-william-cairns
 - DevOps Engineers don't do DevOps: https://www.linkedin.com/pulse/devops-engineers-do-william-cairns/
 - Really Simple Svelte Routing: https://dev.to/cairnswm/really-simple-svelte-routing-5fko
 - Mainframe to Cloud, a short history https://www.linkedin.com/pulse/mainto-cloud-short-history-william-cairns
