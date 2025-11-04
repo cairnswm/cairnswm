@@ -4,7 +4,7 @@ I'm CairnsWM (William Cairns), I live in South Africa. I live in Randburg, Johan
 I am currently working as a Frontend Engineer at Equal Experts.
 
 ## I am
-- A Passionate Software Developer
+- A Passionate Software Developer ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 - A Long Distance Cyclist
 - A Fantasy fan - D&D and Fantasy Fiction
 
@@ -65,13 +65,26 @@ See my Linkedin profile (https://www.linkedin.com/in/cairnswm) for details
 
 ## I use Github
 
-<a href="https://github.com/cairnswm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cairnswm&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/cairnswm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cairnswm" />
-</a>
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+
+### My Github history
+
+<img src="https://github-readme-stats.vercel.app/api?username=cairnswm&count_private=true&show_icons=true&theme=radical" />  
+
+_Some AI tools make a lot of commits while developing. So the number of commits looks inflated :)_
+
+**How busy have I been this month?**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cairnswm&theme=github-dark)
+
+
+
+
+### The Languages I Use:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cairnswm" />
+
+
+
+
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
