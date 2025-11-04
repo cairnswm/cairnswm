@@ -1,7 +1,7 @@
 # Hi 
 I'm CairnsWM (William Cairns), I live in South Africa. I will be moving to a Remote position based in the USA. I have both American and South African citizenship.
 
-I am currently working as a Staff Engineer for Imagine Learning.
+I am currently working as a Frontend Engineer at Equal Experts.
 
 ## I am
 - A Passionate Software Developer
@@ -10,6 +10,7 @@ I am currently working as a Staff Engineer for Imagine Learning.
 
 ## I consider my key skills to be
 - Javascript/React
+- Architecturally driver AI Coder
 - Software Engineering
 - Technical Team Leadership
 - Team Mentorship
@@ -17,7 +18,7 @@ I am currently working as a Staff Engineer for Imagine Learning.
 - Application Architecture Best Practises
 
 ## I am Certified as
-- Microsoft Certified Developer (C#, Javascript, Azure)
+- Microsoft Certified Developer (C#, Javascript, Azure) (expired)
 - AWS Cloud Practitioner (Expired)
 - AWS Certified Developer Associate (Expired)
 
@@ -52,6 +53,8 @@ I am currently working as a Staff Engineer for Imagine Learning.
 - Personal Projects (Passion, Bugs and DevOps) https://www.linkedin.com/pulse/personal-projects-passion-bugs-devops-william-cairns
 - Continuous Learning https://www.linkedin.com/pulse/continuous-learning-william-cairns
 - And a few more
+
+Many of these are on my blog - but I often forget to post there http://william.cairns.co.za
 
 ## I have (a lot of) experience
 See my Linkedin profile (https://www.linkedin.com/in/cairnswm) for details
