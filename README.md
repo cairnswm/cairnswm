@@ -1,5 +1,5 @@
 # Hi 
-I'm CairnsWM (William Cairns), I live in South Africa. I live in Ransburg, Johannesburg, (South Africa) but enjoy travelling and like visiting places for a short-medium term, especiially if I can work and play somewhere interesting. I have both American and South African citizenship.
+I'm CairnsWM (William Cairns), I live in South Africa. I live in Randburg, Johannesburg, (South Africa) but enjoy travelling and like visiting places for a short-medium term, especiially if I can work and play somewhere interesting. I have both American and South African citizenship.
 
 I am currently working as a Frontend Engineer at Equal Experts.
 
