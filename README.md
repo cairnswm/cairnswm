@@ -1,5 +1,5 @@
 # Hi 
-I'm CairnsWM (William Cairns), I live in South Africa. I will be moving to a Remote position based in the USA. I have both American and South African citizenship.
+I'm CairnsWM (William Cairns), I live in South Africa. I live in Ranburg, Johannesburg, but enjoy travelling and like visiting places for a short-medium term, especiially if I can work and play somewhere interesting. I have both American and South African citizenship.
 
 I am currently working as a Frontend Engineer at Equal Experts.
 
@@ -10,7 +10,7 @@ I am currently working as a Frontend Engineer at Equal Experts.
 
 ## I consider my key skills to be
 - Javascript/React
-- Architecturally driver AI Coder
+- Well architected AI Coding
 - Software Engineering
 - Technical Team Leadership
 - Team Mentorship
@@ -32,6 +32,8 @@ I am currently working as a Frontend Engineer at Equal Experts.
 - PHP
 - mySQL
 
+_People often ask why PHP and MySQL - well they can be hosted anywhere really cheaply. I enjoy front end development a lot more so useing PHP to very quickly generate APIs makes front end more fun. Oh, Generative AI knows PHP really well, so I seldom have to do any PHP work myself._
+
 ## I used to use
 - .Net, C#
 - SQL Server
@@ -40,6 +42,8 @@ I am currently working as a Frontend Engineer at Equal Experts.
 - C++
 - AWS
 - and lots more
+
+_Learning a language/technology usually takes me a few weeks to be productive, and about 6 months before I start wanting to build my own libraries etc._
 
 ## I have done some writing
 - How non developers can keep developers engaged and productive https://www.linkedin.com/pulse/how-non-developers-can-keep-developers-engaged-william-cairns-z27ie
